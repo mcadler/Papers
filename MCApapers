@@ -1,0 +1,140 @@
+% This file was created with JabRef 2.8.
+% Encoding: ISO8859_1
+
+@ARTICLE{Agostini2012-1,
+  author = {Agostini, L. and Larcheveque, L. and Dupont, P. and Denieve, J.-F.
+	and Dussauge, J-P.},
+  title = {Zones of Influence and Shock Motion in a Shock/Boundary Layer Interaction},
+  journal = {AIAA J.},
+  year = {2012},
+  volume = {50},
+  number = {6},
+  file = {:pdfs/AgostiniEtal2012AIAAJ.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.08.28}
+}
+
+@ARTICLE{DeBonisetal2012,
+  author = {DeBonis, J.R. and Oberkampf, W.L. and Wolf, R. T. and Orkwis, P.D.
+	and Turner, M. G. and Babinsky, H. and Benek, J.A.},
+  title = {Assessment of Computational Fluid Dynamics and Experimental Data
+	for Shock Boundary-Layer Interactions},
+  journal = {AIAA Journal},
+  year = {2012},
+  volume = {50},
+  pages = {891--903},
+  note = {10.2514/1.J051341},
+  file = {:pdfs/DeBonisEtal2012AIAAJ.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.08.27}
+}
+
+@ARTICLE{dds2001-1,
+  author = {Dolling, D.S.},
+  title = {Fifty years of shock wave/boundary layer interaction research: what
+	next?},
+  journal = {AIAA J.},
+  year = {2001},
+  volume = {39},
+  number = {8},
+  file = {:pdfs/DollingAIAAJ2001.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.08.14}
+}
+
+@ARTICLE{GaitondeSBLIReview2013,
+  author = {Gaitonde, D.V.},
+  title = {Progress in Shock Wave/Boundary Layer Interactions},
+  journal = {AIAA Paper 2013-2607 (Invited Review Article)},
+  year = {2013},
+  file = {:pdfs/SanDiegoFinal2013-2607.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.08.12}
+}
+
+@INBOOK{Gaitonde2000Bookchapter,
+  chapter = {1},
+  title = {Computational Analysis of Three-Dimensional Turbulent Viscous/Inviscid
+	Interactions; Calculation of Complex Turbulent Flows},
+  publisher = {WIT Press, UK},
+  year = {2000},
+  author = {Gaitonde, D.V.},
+  file = {:pdfs/GaitondeBookSBLI.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.08.12}
+}
+
+@ARTICLE{Ganapati2009JFM,
+  author = {Ganapathisubramani, B. and Clemens, N.T. and Dolling, D.S.},
+  title = {Low-frequency dynamics of shock-induced separation in a compression
+	ramp interaction},
+  journal = {J. Fluid Mech.},
+  year = {2009},
+  volume = {636},
+  pages = {397--425},
+  file = {:pdfs/GanapathisubramaniClemensDollingJFM2009.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.08.26}
+}
+
+@ARTICLE{Mullenix2013-1,
+  author = {Mullenix, N. and Gaitonde, D.},
+  title = {Analysis of Unsteady Behavior in Shock/Turbulent Boundary Layer Interactions
+	with Large-Eddy Simulations},
+  journal = {AIAA Paper 2013-404, 10.2514/6.2013-404},
+  year = {2013},
+  file = {:pdfs/MullenixGaitondeASM2013.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.08.11}
+}
+
+@ARTICLE{Plotkin1975-1,
+  author = {Plotkin, K.J.},
+  title = {Shock Wave Oscillation Driven by Turbulent Boundary Layer Fluctuations},
+  journal = {AIAA J.},
+  year = {1975},
+  volume = {13},
+  pages = {1036--1040},
+  number = {8},
+  file = {:pdfs/PlotkinAIAAJ1975.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.08.14}
+}
+
+@ARTICLE{TouberJFM2011,
+  author = {Touber, E. and Sandham, N.D.},
+  title = {Low-order stochastic modelling of low-frequency motions in reflected
+	shock-wave/boundary-layer interactions},
+  journal = {J. Fluid Mech.},
+  year = {2011},
+  volume = {671},
+  pages = {417--465},
+  file = {:pdfs/TouberSandhamJFM2011.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.08.26}
+}
+
+@ARTICLE{,
+  author = {Chun Sang Yoo and Hong G. Im},
+  title = {Characteristic boundary conditions for simulations of compressible
+	reacting flows with multi-dimensional, viscous, and reaction effects},
+  journal = {Combustion Theory and Modelling},
+  year = {2006},
+  file = {:pdfs/ImHongCombustionTheoryAndModelling2006.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.08.29}
+}
+
+@comment{jabref-meta: selector_review:}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_keywords:}
+
+@comment{jabref-meta: pdfDirectory:/home/adler.133/Documents/Papers/pd
+fs;}
+

@@ -8,10 +8,44 @@
   journal = {AIAA J.},
   year = {2012},
   volume = {50},
+  pages = {1377-1387},
   number = {6},
   file = {:pdfs/AgostiniEtal2012AIAAJ.pdf:PDF},
   owner = {adler.133},
   timestamp = {2014.08.28}
+}
+
+@ARTICLE{AguileraYuJPC2014,
+  author = {Camilo Aguilera and Ken H. Yu},
+  title = {Effect of Fin-Guided Fuel Injection on Dual Mode Scramjet Operation},
+  journal = {50th AIAA/ASME/SAE/ASEE Joint Propulsion Conference},
+  year = {2014},
+  file = {:pdfs/AguileraYuJPC2014.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.09.08}
+}
+
+@ARTICLE{ClemensNarayanaswamyARFM2014,
+  author = {Noel T. Clemens and Venkateswaran Narayanaswamy},
+  title = {Low-Frequency Unsteadiness of Shock Wave/Turbulent Boundary Layer
+	Interactions},
+  journal = {Annu. Rev. Fluid Mech.},
+  year = {2014},
+  volume = {46},
+  pages = {469-492},
+  file = {:pdfs/ClemensNarayanaswamyARFM2014.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.09.11}
+}
+
+@TECHREPORT{GonzalezDigitalFilter,
+  author = {David R. Gonzalez, Arvind T. Mohan, and Datta V. Gaitonde},
+  title = {Overview of the Digital Filter Implementation in FDL3DICE},
+  institution = {Naval Surface Warfare Center, Indian Head, MD 20640-5035},
+  year = {2014},
+  file = {:pdfs/GonzalezDigitalFilter.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.09.08}
 }
 
 @ARTICLE{DeBonisetal2012,
@@ -27,6 +61,19 @@
   file = {:pdfs/DeBonisEtal2012AIAAJ.pdf:PDF},
   owner = {adler.133},
   timestamp = {2014.08.27}
+}
+
+@ARTICLE{DennisNickelsJFM2008,
+  author = {David J. C. Dennis and Timothy B. Nickels},
+  title = {On the limitations of Taylor?s hypothesis in constructing long structures
+	in a turbulent boundary layer},
+  journal = {J. Fluid Mech.},
+  year = {2008},
+  volume = {614},
+  pages = {197-206},
+  file = {:pdfs/DennisNickelsJFM2008.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.09.02}
 }
 
 @ARTICLE{dds2001-1,
@@ -77,6 +124,78 @@
   timestamp = {2014.08.26}
 }
 
+@ARTICLE{KiyaSasakiJFM1985,
+  author = {MASARU KIYA AND KYURO SASAKI},
+  title = {Structure of large-scale vortices and unsteady reverse flow in the
+	reattaching zone of a turbulent separation bubble},
+  journal = {J . Fluid Mech.},
+  year = {1985},
+  volume = {154},
+  pages = {463-491},
+  owner = {adler.133},
+  timestamp = {2014.09.11}
+}
+
+@ARTICLE{KiyaSasakiJFM1983,
+  author = {MASARU KIYA AND KYURO SASAKI},
+  title = {Structure of a turbulent separation bubble},
+  journal = {J . Fluid Mech.},
+  year = {1983},
+  volume = {137},
+  pages = {83-113},
+  file = {:pdfs/KiyaSasakiJFM1983.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.09.11}
+}
+
+@ARTICLE{AgostiniNotsubmitted2014,
+  author = {L. Agostini, L. Larcheveque, J.-F. Debieve, and P. Dupont},
+  title = {Sources of shock unsteadiness in separated shock/boundary-layer interactions},
+  journal = {not submitted},
+  year = {2014},
+  file = {:pdfs/AgostiniNotsubmitted2014.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.09.11}
+}
+
+@ARTICLE{,
+  author = {Laura M. Hudy, Ahmed M. Naguiba, and William M. Humphreys, Jr.},
+  title = {Wall-pressure-array measurements beneath a separating/reattaching
+	flow region},
+  journal = {PHYSICS OF FLUIDS},
+  year = {2003},
+  volume = {15},
+  pages = {706-717},
+  file = {:pdfs/HudyPhysFluid2003.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.09.11}
+}
+
+@ARTICLE{LeeExpFluids2001,
+  author = {Lee and Sung},
+  title = {Characteristics of wall pressure fluctuations in separated and reattaching
+	flows over a backward-facing step},
+  journal = {ExpFLuids},
+  year = {2001},
+  volume = {30},
+  pages = {262-272},
+  file = {:pdfs/LeeExpFluids2001.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.09.11}
+}
+
+@ARTICLE{KiyaSasakiJFM1982,
+  author = {MASARU KIYA, KYURO SASAKI AND MIKIO ARIE},
+  title = {Discrete-vortex simulation of a turbulent separation bubble},
+  journal = {J . Fluid Mech.},
+  year = {1982},
+  volume = {120},
+  pages = {219-244},
+  file = {:pdfs/KiyaSasakiJFM1982.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.09.11}
+}
+
 @ARTICLE{Mullenix2013-1,
   author = {Mullenix, N. and Gaitonde, D.},
   title = {Analysis of Unsteady Behavior in Shock/Turbulent Boundary Layer Interactions
@@ -86,6 +205,29 @@
   file = {:pdfs/MullenixGaitondeASM2013.pdf:PDF},
   owner = {adler.133},
   timestamp = {2014.08.11}
+}
+
+@ARTICLE{CherryJFM1984,
+  author = {N. J. CHERRY, R. HILLIER AND M. E. M. P. LATOUR},
+  title = {Unsteady measurements in a separated and reattaching flow},
+  journal = {J. Fluid Mech.},
+  year = {1984},
+  volume = {144},
+  pages = {13-46},
+  file = {:pdfs/CherryJFM1984.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.09.11}
+}
+
+@ARTICLE{PasquarielloIJHFF2014,
+  author = {Pasquariello V., et al.},
+  title = {Large-eddy simulation of passive shock-wave/boundary-layer interaction
+	control},
+  journal = {Int. J. Heat and Fluid Flow},
+  year = {2014},
+  file = {:pdfs/PasquarielloIJHFF2014.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.09.11}
 }
 
 @ARTICLE{Plotkin1975-1,
@@ -114,7 +256,20 @@
   timestamp = {2014.08.26}
 }
 
-@ARTICLE{,
+@ARTICLE{te2009-2,
+  author = {Touber, E. and Sandham, N.D.},
+  title = {Large-eddy simulation of low-frequency unsteadiness in a turbulent
+	shock-induced separation bubble},
+  journal = {Theor. Comput. Fluid Dyn},
+  year = {2009},
+  volume = {23},
+  pages = {79-107},
+  file = {:pdfs/TouberSandhamnTCFD2009.pdf:PDF},
+  owner = {adler.133},
+  timestamp = {2014.09.08}
+}
+
+@ARTICLE{YooIm2006,
   author = {Chun Sang Yoo and Hong G. Im},
   title = {Characteristic boundary conditions for simulations of compressible
 	reacting flows with multi-dimensional, viscous, and reaction effects},
